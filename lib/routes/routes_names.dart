@@ -1,0 +1,20 @@
+const String splashScreenRoute = '/';
+const String onboardingRoute = '/onboarding';
+const String welcomeRoute = '/welcome';
+const String forgetPasswordRoute = '/forgetPassword';
+const String confirmForgetPasswordRoute = '/confirmForgetPassword';
+const String signUpRoute = '/sign_up';
+const String loginRoute = '/log_in';
+const String homePageRoute = '/home_page';
+const String bottomNavBarRoute = '/bottom_navBar';
+const String cartScreenRoute = '/cart_screen';
+const String productRatingRoute = '/product_rating';
+const String shippingAddressSelectScreenRoute = '/shipping_address_select_screen';
+const String showPaymentRoute = '/show_payment_screen';
+const String addPaymentRoute = '/add_payment_screen';
+const String addShippingAddressRoute = '/add_shipping_address_screen';
+const String settingScreenRoute = '/setting_screen';
+const String myReviewsScreenRoute = '/myReviews_screen';
+const String productDetailScreenRoute = '/detail_screen';
+
+const String myOderRoute = '/my_order_screen';
