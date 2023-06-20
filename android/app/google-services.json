@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "953903179944",
+    "project_id": "furniture-shopping-c6e92",
+    "storage_bucket": "furniture-shopping-c6e92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953903179944:android:7b244ffd4cf75cd5e8fa9d",
+        "android_client_info": {
+          "package_name": "com.example.furniture_shopping_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953903179944-gb7s4iv48ojj5biaf6fo33b5ja0tc7vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsFMjxHo4y4PoppCukWpcE0zoVPPq7o38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953903179944-gb7s4iv48ojj5biaf6fo33b5ja0tc7vg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "953903179944-hgh5k4ld3i003iring5r061bs1hh5cpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.furnitureShoppingFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
